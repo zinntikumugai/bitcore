@@ -81,7 +81,7 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib": "zinntikumugai/bitcore-lib-suuscoin",
+    "bitcore-lib": "zinntikumugai/bitcore-lib-susucoin",
     "bitcore-node": "^2.0.0",
     "insight-api": "zinntikumugai/insight-api-susucoin",
     "insight-ui": "^0.3.0"
