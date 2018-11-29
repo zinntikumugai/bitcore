@@ -83,7 +83,7 @@
   "dependencies": {
     "bitcore-lib": "zinntikumugai/bitcore-lib-suuscoin",
     "bitcore-node": "^2.0.0",
-    "insight-api": "^0.3.2",
+    "insight-api": "zinntikumugai/insight-api-susucoin",
     "insight-ui": "^0.3.0"
   },
   "license": "MIT",
